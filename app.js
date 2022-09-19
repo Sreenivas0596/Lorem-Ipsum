@@ -7,7 +7,12 @@ app.use(express.json());
 app.use(cors());
 
 data = {
-  title: "Bio",
+  firstName: "Akhil",
+  lastName: "Chakravarthy",
+  occupation: "CEO",
+  ocupation: "Managing Director",
+  company: "Techno Soft Solutions",
+
   email: "akhil@gmail.com",
   profileImg:
     "https://res.cloudinary.com/sree7771/image/upload/v1663578589/1586875685330_1_j0fpjd.jpg",
@@ -33,6 +38,7 @@ data = {
 
   reviewsImg:
     "https://res.cloudinary.com/sree7771/image/upload/v1663583627/download_nyxhru.jpg",
+  totalReviews: "136",
 };
 
 //All Players
