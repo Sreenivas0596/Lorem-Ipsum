@@ -1,13 +1,1 @@
-GET http://localhost:3004/players/
-###
-GET http://localhost:3004/players/7/
-###
-PUT http://localhost:3004/players/7/
-###
-GET http://localhost:3004/matches/7/
-###
-GET http://localhost:3004/players/1/matches/
-###
-GET http://localhost:3004/matches/1/players/
-###
-GET http://localhost:3004/players/1/playerScores/
+GET http://localhost:3004/
