@@ -30,6 +30,9 @@ data = {
     "https://res.cloudinary.com/sree7771/image/upload/v1663579243/waterProduct_e601bs.jpg",
   fourCosmeticsImg:
     "https://res.cloudinary.com/sree7771/image/upload/v1663579262/These-four-habits-will-dramatically-improve-yours-and-your-family_s-overall-oral-health.-1024x585_fe64yh.jpg",
+
+  reviewsImg:
+    "https://res.cloudinary.com/sree7771/image/upload/v1663583627/download_nyxhru.jpg",
 };
 
 //All Players
